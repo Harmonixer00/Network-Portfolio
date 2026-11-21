@@ -1,18 +1,19 @@
 🌐 Network Engineer Portfolio
 
-Showcasing various projects built within GNS3 implementing various network technologies and protocols such as OSPF, EIGRP, HSRP, DHCP, Spanning Tree Protocol and CDP/LLDP. 
+Showcasing various projects built within GNS3 implementing various network technologies and protocols.
 Projects designed and configured within GNS3 emulation environment running real Cisco device images.
 
 🚀 About Me
 
 Aspiring Network Engineer with several years of I.T experience at the Service Desk level with extensive experience working with network teams on various projects such as Router, Switch and Firewall upgrades as well as Wireless Access point and UPS deployments. This portfolio showcases enterprise-grade solutions built through rigorous simulations.” This portfolio reflects my hands-on experience with a wide range of networking technologies and my ability to implement complex solutions in both small businesses and enterprise environments.
 
-I am continuously learning and growing, currently pursuing CCNP certification, and aiming to expand my expertise into network security and automation.
+I am continuously learning and growing, currently pursuing CCNP certification and AWS certifications for cloud networking, and aiming to expand my expertise into network security and automation.
 
 
 🧠 Core Technologies & Skills
 
 This repository showcases my experience across several core networking technologies, including:
+
 🛠️ Routing & Switching
 
     Dynamic Routing: Proficient in configuring and troubleshooting routing protocols like OSPF, RIP, and EIGRP for IPv4.
@@ -30,14 +31,8 @@ This repository showcases my experience across several core networking technolog
     HSRP & VRRP: Configuring HSRP and VRRP for redundant gateways, ensuring seamless failover and network reliability.
     Spanning Tree Protocol (STP): Mastering Root Guard, BPDU Guard, and PortFast to prevent network loops and improve failover times.
 
-🌍 Vendor-Specific Expertise
-
-    Cisco: Hands-on experience with Cisco Packet Tracer and GNS3, simulating and configuring routers and switches for real-world scenarios.
-    MikroTik: Practical knowledge of MikroTik RouterOS, including advanced routing, NAT, firewalling, and VLAN configuration.
-    Huawei: Experience working with Huawei eNSP, implementing VRRP, ACLs, and routing protocols in Huawei-based environments.
-
 🧑‍💻 Automation & Management
 
-    Network Automation: Exploring Python (with Netmiko and Paramiko) to automate routine network tasks, including device configurations and troubleshooting.
+    Network Automation: Exploring Python to automate routine network tasks, including device configurations and troubleshooting.
     Syslog & SNMP: Integrating network devices with Syslog servers for log management and SNMP for monitoring network health.
 
